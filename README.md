@@ -1,4 +1,4 @@
-# Entry-Level Data Analyst Project: Retail Sales Performance
+# Data Analyst Project: Retail Sales Performance
 
 This project is a beginner-friendly portfolio project for aspiring **Data Analysts**.
 It demonstrates how to:
